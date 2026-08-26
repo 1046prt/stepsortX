@@ -1,6 +1,6 @@
-# sortsort Solutions
+# StepsortX
 
-Companion repository to [**sortsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
+Companion repository to [**stepsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
 
 Every solution here has a **step-by-step animated walkthrough** on the website. Click the 🎬 links below to watch one execute before reading the code.
 
@@ -338,4 +338,4 @@ python3 sorting/bubble-sort/solution.py
 
 ## License
 
-Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The sortsort platform itself remains © 2026 Prakash Raj.
+Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The [stepsort platform](https://stepsort.prakashraj.me) itself remains © 2026 [Prakash Raj](https://prakashraj.me).

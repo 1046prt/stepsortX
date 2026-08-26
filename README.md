@@ -4,7 +4,7 @@ Companion repository to [**stepsort**](https://stepsort.prakashraj.me) — inter
 
 Every solution here has a **step-by-step animated walkthrough** on the website. Click the 🎬 links below to watch one execute before reading the code.
 
-**232 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
+**252 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
 
 ## Sorting
 
@@ -48,6 +48,7 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Depth-Limited Search** | [py](searching/depth-limited-search/solution.py) | [cpp](searching/depth-limited-search/solution.cpp) | [java](searching/depth-limited-search/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/depth-limited-search) |
 | **Iterative Deepening DFS** | [py](searching/iterative-deepening/solution.py) | [cpp](searching/iterative-deepening/solution.cpp) | [java](searching/iterative-deepening/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/iterative-deepening) |
 | **Bidirectional Search** | [py](searching/bidirectional-search/solution.py) | [cpp](searching/bidirectional-search/solution.cpp) | [java](searching/bidirectional-search/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bidirectional-search) |
+| **Binary Search on Answer** | [py](searching/binary-search-on-answer/solution.py) | [cpp](searching/binary-search-on-answer/solution.cpp) | [java](searching/binary-search-on-answer/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/binary-search-on-answer) |
 
 ## Graph
 
@@ -72,6 +73,8 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Bipartite Check** | [py](graph/bipartite-check/solution.py) | [cpp](graph/bipartite-check/solution.cpp) | [java](graph/bipartite-check/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bipartite-check) |
 | **Ford-Fulkerson Max Flow** | [py](graph/max-flow/solution.py) | [cpp](graph/max-flow/solution.cpp) | [java](graph/max-flow/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/max-flow) |
 | **Johnson's Algorithm** | [py](graph/johnson-algorithm/solution.py) | [cpp](graph/johnson-algorithm/solution.cpp) | [java](graph/johnson-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/johnson-algorithm) |
+| **Union-Find (DSU)** | [py](graph/union-find/solution.py) | [cpp](graph/union-find/solution.cpp) | [java](graph/union-find/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/union-find) |
+| **0-1 BFS** | [py](graph/zero-one-bfs/solution.py) | [cpp](graph/zero-one-bfs/solution.cpp) | [java](graph/zero-one-bfs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/zero-one-bfs) |
 
 ## Tree
 
@@ -95,6 +98,16 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Lowest Common Ancestor** | [py](tree/lca/solution.py) | [cpp](tree/lca/solution.cpp) | [java](tree/lca/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lca) |
 | **Morris Traversal** | [py](tree/morris-traversal/solution.py) | [cpp](tree/morris-traversal/solution.cpp) | [java](tree/morris-traversal/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/morris-traversal) |
 | **Tree Diameter** | [py](tree/tree-diameter/solution.py) | [cpp](tree/tree-diameter/solution.cpp) | [java](tree/tree-diameter/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/tree-diameter) |
+| **Lazy Propagation Segment Tree** | [py](tree/lazy-segment-tree/solution.py) | [cpp](tree/lazy-segment-tree/solution.cpp) | [java](tree/lazy-segment-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lazy-segment-tree) |
+| **Binary Lifting (LCA)** | [py](tree/binary-lifting/solution.py) | [cpp](tree/binary-lifting/solution.cpp) | [java](tree/binary-lifting/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/binary-lifting) |
+| **Heavy-Light Decomposition** | [py](tree/heavy-light-decomposition/solution.py) | [cpp](tree/heavy-light-decomposition/solution.cpp) | [java](tree/heavy-light-decomposition/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/heavy-light-decomposition) |
+| **Sparse Table (RMQ)** | [py](tree/sparse-table/solution.py) | [cpp](tree/sparse-table/solution.cpp) | [java](tree/sparse-table/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/sparse-table) |
+| **Persistent Segment Tree** | [py](tree/persistent-segment-tree/solution.py) | [cpp](tree/persistent-segment-tree/solution.cpp) | [java](tree/persistent-segment-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/persistent-segment-tree) |
+| **Merge Sort Tree** | [py](tree/merge-sort-tree/solution.py) | [cpp](tree/merge-sort-tree/solution.cpp) | [java](tree/merge-sort-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/merge-sort-tree) |
+| **Wavelet Tree** | [py](tree/wavelet-tree/solution.py) | [cpp](tree/wavelet-tree/solution.cpp) | [java](tree/wavelet-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/wavelet-tree) |
+| **Li Chao Tree** | [py](tree/li-chao-tree/solution.py) | [cpp](tree/li-chao-tree/solution.cpp) | [java](tree/li-chao-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/li-chao-tree) |
+| **DSU on Tree (Small-to-Large)** | [py](tree/dsu-on-tree/solution.py) | [cpp](tree/dsu-on-tree/solution.cpp) | [java](tree/dsu-on-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dsu-on-tree) |
+| **Link-Cut Tree** | [py](tree/link-cut-tree/solution.py) | [cpp](tree/link-cut-tree/solution.cpp) | [java](tree/link-cut-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/link-cut-tree) |
 
 ## Dynamic Programming
 
@@ -118,6 +131,8 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Egg Drop Problem** | [py](dp/egg-drop/solution.py) | [cpp](dp/egg-drop/solution.cpp) | [java](dp/egg-drop/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/egg-drop) |
 | **Decode Ways** | [py](dp/decode-ways/solution.py) | [cpp](dp/decode-ways/solution.cpp) | [java](dp/decode-ways/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/decode-ways) |
 | **Maximal Square** | [py](dp/maximal-square/solution.py) | [cpp](dp/maximal-square/solution.cpp) | [java](dp/maximal-square/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/maximal-square) |
+| **Digit DP** | [py](dp/digit-dp/solution.py) | [cpp](dp/digit-dp/solution.cpp) | [java](dp/digit-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/digit-dp) |
+| **Convex Hull Trick** | [py](dp/convex-hull-trick/solution.py) | [cpp](dp/convex-hull-trick/solution.cpp) | [java](dp/convex-hull-trick/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/convex-hull-trick) |
 
 ## Greedy
 
@@ -169,6 +184,7 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Levenshtein Distance** | [py](string/levenshtein/solution.py) | [cpp](string/levenshtein/solution.cpp) | [java](string/levenshtein/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/levenshtein) |
 | **Longest Repeated Substring** | [py](string/lrs/solution.py) | [cpp](string/lrs/solution.cpp) | [java](string/lrs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lrs) |
 | **Run-Length Encoding** | [py](string/run-length-encoding/solution.py) | [cpp](string/run-length-encoding/solution.cpp) | [java](string/run-length-encoding/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/run-length-encoding) |
+| **Suffix Automaton** | [py](string/suffix-automaton/solution.py) | [cpp](string/suffix-automaton/solution.cpp) | [java](string/suffix-automaton/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/suffix-automaton) |
 
 ## Linked List
 
@@ -201,6 +217,9 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Quick Select** | [py](divide-conquer/quick-select/solution.py) | [cpp](divide-conquer/quick-select/solution.cpp) | [java](divide-conquer/quick-select/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/quick-select) |
 | **Convex Hull** | [py](divide-conquer/convex-hull/solution.py) | [cpp](divide-conquer/convex-hull/solution.cpp) | [java](divide-conquer/convex-hull/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/convex-hull) |
 | **FFT (Fast Fourier Transform)** | [py](divide-conquer/fft/solution.py) | [cpp](divide-conquer/fft/solution.cpp) | [java](divide-conquer/fft/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/fft) |
+| **Mo's Algorithm** | [py](divide-conquer/mo-algorithm/solution.py) | [cpp](divide-conquer/mo-algorithm/solution.cpp) | [java](divide-conquer/mo-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/mo-algorithm) |
+| **Cartesian Tree** | [py](divide-conquer/cartesian-tree/solution.py) | [cpp](divide-conquer/cartesian-tree/solution.cpp) | [java](divide-conquer/cartesian-tree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/cartesian-tree) |
+| **Centroid Decomposition** | [py](divide-conquer/centroid-decomposition/solution.py) | [cpp](divide-conquer/centroid-decomposition/solution.cpp) | [java](divide-conquer/centroid-decomposition/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/centroid-decomposition) |
 
 ## Bit Manipulation
 
@@ -289,6 +308,7 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Miller-Rabin (Randomized)** | [py](randomized/rand-miller-rabin/solution.py) | [cpp](randomized/rand-miller-rabin/solution.cpp) | [java](randomized/rand-miller-rabin/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rand-miller-rabin) |
 | **Karger's Min Cut** | [py](randomized/rand-karger-min-cut/solution.py) | [cpp](randomized/rand-karger-min-cut/solution.cpp) | [java](randomized/rand-karger-min-cut/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rand-karger-min-cut) |
 | **Fisher-Yates Shuffle** | [py](randomized/rand-shuffle/solution.py) | [cpp](randomized/rand-shuffle/solution.cpp) | [java](randomized/rand-shuffle/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rand-shuffle) |
+| **Treap** | [py](randomized/treap/solution.py) | [cpp](randomized/treap/solution.cpp) | [java](randomized/treap/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/treap) |
 
 ## Network Flow & Matching
 

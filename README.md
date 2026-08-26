@@ -1,10 +1,10 @@
-# StepsortX
+# sortsort Solutions
 
-Companion repository to [**stepsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
+Companion repository to [**sortsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
 
 Every solution here has a **step-by-step animated walkthrough** on the website. Click the 🎬 links below to watch one execute before reading the code.
 
-**252 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
+**269 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
 
 ## Sorting
 
@@ -75,6 +75,13 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Johnson's Algorithm** | [py](graph/johnson-algorithm/solution.py) | [cpp](graph/johnson-algorithm/solution.cpp) | [java](graph/johnson-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/johnson-algorithm) |
 | **Union-Find (DSU)** | [py](graph/union-find/solution.py) | [cpp](graph/union-find/solution.cpp) | [java](graph/union-find/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/union-find) |
 | **0-1 BFS** | [py](graph/zero-one-bfs/solution.py) | [cpp](graph/zero-one-bfs/solution.cpp) | [java](graph/zero-one-bfs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/zero-one-bfs) |
+| **DAG Shortest Path** | [py](graph/dag-shortest-path/solution.py) | [cpp](graph/dag-shortest-path/solution.cpp) | [java](graph/dag-shortest-path/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dag-shortest-path) |
+| **Boruvka's MST** | [py](graph/boruvka-mst/solution.py) | [cpp](graph/boruvka-mst/solution.cpp) | [java](graph/boruvka-mst/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/boruvka-mst) |
+| **Biconnected Components** | [py](graph/biconnected-components/solution.py) | [cpp](graph/biconnected-components/solution.cpp) | [java](graph/biconnected-components/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/biconnected-components) |
+| **Offline Dynamic Connectivity** | [py](graph/offline-dynamic-connectivity/solution.py) | [cpp](graph/offline-dynamic-connectivity/solution.cpp) | [java](graph/offline-dynamic-connectivity/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/offline-dynamic-connectivity) |
+| **Konig's Min Vertex Cover** | [py](graph/konig-vertex-cover/solution.py) | [cpp](graph/konig-vertex-cover/solution.cpp) | [java](graph/konig-vertex-cover/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/konig-vertex-cover) |
+| **Blossom Algorithm (Edmonds)** | [py](graph/blossom-algorithm/solution.py) | [cpp](graph/blossom-algorithm/solution.cpp) | [java](graph/blossom-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/blossom-algorithm) |
+| **Capacity Scaling Max Flow** | [py](graph/capacity-scaling/solution.py) | [cpp](graph/capacity-scaling/solution.cpp) | [java](graph/capacity-scaling/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/capacity-scaling) |
 
 ## Tree
 
@@ -133,6 +140,11 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Maximal Square** | [py](dp/maximal-square/solution.py) | [cpp](dp/maximal-square/solution.cpp) | [java](dp/maximal-square/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/maximal-square) |
 | **Digit DP** | [py](dp/digit-dp/solution.py) | [cpp](dp/digit-dp/solution.cpp) | [java](dp/digit-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/digit-dp) |
 | **Convex Hull Trick** | [py](dp/convex-hull-trick/solution.py) | [cpp](dp/convex-hull-trick/solution.cpp) | [java](dp/convex-hull-trick/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/convex-hull-trick) |
+| **Bitmask DP (TSP)** | [py](dp/bitmask-dp-tsp/solution.py) | [cpp](dp/bitmask-dp-tsp/solution.cpp) | [java](dp/bitmask-dp-tsp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bitmask-dp-tsp) |
+| **Tree DP (Max Independent Set)** | [py](dp/tree-dp-independent-set/solution.py) | [cpp](dp/tree-dp-independent-set/solution.cpp) | [java](dp/tree-dp-independent-set/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/tree-dp-independent-set) |
+| **Interval DP (Matrix Chain)** | [py](dp/interval-dp-matrix-chain/solution.py) | [cpp](dp/interval-dp-matrix-chain/solution.cpp) | [java](dp/interval-dp-matrix-chain/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/interval-dp-matrix-chain) |
+| **Knuth Optimization (Optimal BST)** | [py](dp/knuth-optimization/solution.py) | [cpp](dp/knuth-optimization/solution.cpp) | [java](dp/knuth-optimization/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/knuth-optimization) |
+| **Divide & Conquer Optimization** | [py](dp/dc-optimization/solution.py) | [cpp](dp/dc-optimization/solution.cpp) | [java](dp/dc-optimization/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dc-optimization) |
 
 ## Greedy
 
@@ -185,6 +197,11 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Longest Repeated Substring** | [py](string/lrs/solution.py) | [cpp](string/lrs/solution.cpp) | [java](string/lrs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lrs) |
 | **Run-Length Encoding** | [py](string/run-length-encoding/solution.py) | [cpp](string/run-length-encoding/solution.cpp) | [java](string/run-length-encoding/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/run-length-encoding) |
 | **Suffix Automaton** | [py](string/suffix-automaton/solution.py) | [cpp](string/suffix-automaton/solution.cpp) | [java](string/suffix-automaton/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/suffix-automaton) |
+| **Kasai's Algorithm** | [py](string/kasai-algorithm/solution.py) | [cpp](string/kasai-algorithm/solution.cpp) | [java](string/kasai-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/kasai-algorithm) |
+| **Suffix Tree (Compressed)** | [py](string/suffix-tree-construction/solution.py) | [cpp](string/suffix-tree-construction/solution.cpp) | [java](string/suffix-tree-construction/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/suffix-tree-construction) |
+| **Eertree (Palindromic Tree)** | [py](string/eertree/solution.py) | [cpp](string/eertree/solution.cpp) | [java](string/eertree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/eertree) |
+| **Rolling Hash (Polynomial)** | [py](string/rolling-hash/solution.py) | [cpp](string/rolling-hash/solution.cpp) | [java](string/rolling-hash/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rolling-hash) |
+| **Aho-Corasick Failure Links** | [py](string/aho-corasick-failure-links/solution.py) | [cpp](string/aho-corasick-failure-links/solution.cpp) | [java](string/aho-corasick-failure-links/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/aho-corasick-failure-links) |
 
 ## Linked List
 
@@ -358,4 +375,4 @@ python3 sorting/bubble-sort/solution.py
 
 ## License
 
-Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The [stepsort platform](https://stepsort.prakashraj.me) itself remains © 2026 [Prakash Raj](https://prakashraj.me).
+Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The sortsort platform itself remains © 2026 Prakash Raj.

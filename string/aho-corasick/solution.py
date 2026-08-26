@@ -1,4 +1,4 @@
-# sortsort · Aho-Corasick
+# Stepsort · Aho-Corasick
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/aho-corasick
 

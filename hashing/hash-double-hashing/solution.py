@@ -1,4 +1,4 @@
-# sortsort · Double Hashing
+# Stepsort · Double Hashing
 # Category: Hashing
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-double-hashing
 

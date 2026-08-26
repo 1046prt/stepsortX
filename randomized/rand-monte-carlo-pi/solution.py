@@ -1,4 +1,4 @@
-# sortsort · Monte Carlo (π)
+# Stepsort · Monte Carlo (π)
 # Category: Randomized Algorithms
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-monte-carlo-pi
 

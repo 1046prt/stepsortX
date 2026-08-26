@@ -1,4 +1,4 @@
-// sortsort · Count Set Bits
+// Stepsort · Count Set Bits
 // Category: Bit Manipulation
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/count-set-bits
 

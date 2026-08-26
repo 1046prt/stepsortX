@@ -1,4 +1,4 @@
-// sortsort · Word Search
+// Stepsort · Word Search
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/word-search
 

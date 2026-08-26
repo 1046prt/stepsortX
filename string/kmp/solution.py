@@ -1,4 +1,4 @@
-# sortsort · KMP Pattern Matching
+# Stepsort · KMP Pattern Matching
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/kmp
 

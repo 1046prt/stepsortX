@@ -1,4 +1,4 @@
-// sortsort · Heap Extract Max
+// Stepsort · Heap Extract Max
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/heap-extract
 

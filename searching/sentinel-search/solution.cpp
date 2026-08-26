@@ -1,4 +1,4 @@
-// sortsort · Sentinel Linear Search
+// Stepsort · Sentinel Linear Search
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sentinel-search
 

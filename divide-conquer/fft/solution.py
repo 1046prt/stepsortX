@@ -1,4 +1,4 @@
-# sortsort · FFT (Fast Fourier Transform)
+# Stepsort · FFT (Fast Fourier Transform)
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fft
 

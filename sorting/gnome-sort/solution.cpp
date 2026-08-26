@@ -1,4 +1,4 @@
-// sortsort · Gnome Sort
+// Stepsort · Gnome Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/gnome-sort
 

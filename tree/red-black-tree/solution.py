@@ -1,4 +1,4 @@
-# sortsort · Red-Black Tree
+# Stepsort · Red-Black Tree
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/red-black-tree
 

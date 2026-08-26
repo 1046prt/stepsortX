@@ -1,4 +1,4 @@
-# sortsort · Two Sum
+# Stepsort · Two Sum
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/two-sum
 

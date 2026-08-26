@@ -1,4 +1,4 @@
-# sortsort · Longest Common Subsequence
+# Stepsort · Longest Common Subsequence
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lcs
 

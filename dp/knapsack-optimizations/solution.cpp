@@ -1,4 +1,4 @@
-// sortsort · Knapsack Optimizations
+// Stepsort · Knapsack Optimizations
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/knapsack-optimizations
 

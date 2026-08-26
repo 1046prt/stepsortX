@@ -1,4 +1,4 @@
-# sortsort · Subsets (Power Set)
+# Stepsort · Subsets (Power Set)
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/subsets
 

@@ -1,4 +1,4 @@
-// sortsort · Bloom Filter
+// Stepsort · Bloom Filter
 // Category: Randomized Algorithms
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-bloom-filter
 

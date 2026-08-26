@@ -1,4 +1,4 @@
-// sortsort · Job Sequencing
+// Stepsort · Job Sequencing
 // Category: Greedy
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/job-sequencing
 

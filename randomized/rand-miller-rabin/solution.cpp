@@ -1,4 +1,4 @@
-// sortsort · Miller-Rabin (Randomized)
+// Stepsort · Miller-Rabin (Randomized)
 // Category: Randomized Algorithms
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-miller-rabin
 

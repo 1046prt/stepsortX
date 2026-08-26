@@ -1,4 +1,4 @@
-// sortsort · Boyer-Moore
+// Stepsort · Boyer-Moore
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/boyer-moore
 

@@ -1,4 +1,4 @@
-// sortsort · Selection Sort
+// Stepsort · Selection Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/selection-sort
 

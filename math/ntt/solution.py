@@ -1,4 +1,4 @@
-# sortsort · Number Theoretic Transform
+# Stepsort · Number Theoretic Transform
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ntt
 

@@ -1,4 +1,4 @@
-# sortsort · Modular Arithmetic
+# Stepsort · Modular Arithmetic
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/modular-arithmetic
 

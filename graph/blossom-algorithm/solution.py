@@ -1,4 +1,4 @@
-# sortsort · Blossom Algorithm (Edmonds)
+# Stepsort · Blossom Algorithm (Edmonds)
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/blossom-algorithm
 

@@ -1,4 +1,4 @@
-// sortsort · Min-Cost Max Flow
+// Stepsort · Min-Cost Max Flow
 // Category: Network Flow & Matching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-min-cost-flow
 

@@ -1,4 +1,4 @@
-# sortsort · Single Number (XOR)
+# Stepsort · Single Number (XOR)
 # Category: Bit Manipulation
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/single-number
 

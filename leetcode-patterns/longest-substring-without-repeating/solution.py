@@ -1,4 +1,4 @@
-# sortsort · Longest Substring Without Repeating
+# Stepsort · Longest Substring Without Repeating
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/longest-substring-without-repeating
 

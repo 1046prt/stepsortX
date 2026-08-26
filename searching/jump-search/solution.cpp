@@ -1,4 +1,4 @@
-// sortsort · Jump Search
+// Stepsort · Jump Search
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/jump-search
 

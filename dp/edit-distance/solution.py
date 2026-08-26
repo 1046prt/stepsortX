@@ -1,4 +1,4 @@
-# sortsort · Edit Distance
+# Stepsort · Edit Distance
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/edit-distance
 

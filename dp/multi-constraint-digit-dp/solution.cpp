@@ -1,4 +1,4 @@
-// sortsort · Multi-Constraint Digit DP
+// Stepsort · Multi-Constraint Digit DP
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/multi-constraint-digit-dp
 

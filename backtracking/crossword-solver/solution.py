@@ -1,4 +1,4 @@
-# sortsort · Crossword Solver
+# Stepsort · Crossword Solver
 # Category: Backtracking
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/crossword-solver
 

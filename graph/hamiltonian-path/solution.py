@@ -1,4 +1,4 @@
-# sortsort · Hamiltonian Path
+# Stepsort · Hamiltonian Path
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hamiltonian-path
 

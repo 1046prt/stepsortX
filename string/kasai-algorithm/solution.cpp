@@ -1,4 +1,4 @@
-// sortsort · Kasai's Algorithm
+// Stepsort · Kasai's Algorithm
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/kasai-algorithm
 

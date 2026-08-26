@@ -1,4 +1,4 @@
-# sortsort · Fisher-Yates Shuffle
+# Stepsort · Fisher-Yates Shuffle
 # Category: Randomized Algorithms
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-shuffle
 

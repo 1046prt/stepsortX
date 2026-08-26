@@ -1,4 +1,4 @@
-# sortsort · Spiral Matrix
+# Stepsort · Spiral Matrix
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/spiral-matrix
 

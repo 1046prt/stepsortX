@@ -1,4 +1,4 @@
-# sortsort · Tree DP (Max Independent Set)
+# Stepsort · Tree DP (Max Independent Set)
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tree-dp-independent-set
 

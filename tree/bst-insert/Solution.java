@@ -1,4 +1,4 @@
-// sortsort · BST Insert
+// Stepsort · BST Insert
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bst-insert
 

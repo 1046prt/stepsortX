@@ -1,4 +1,4 @@
-# sortsort · Delaunay Triangulation
+# Stepsort · Delaunay Triangulation
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-delaunay
 

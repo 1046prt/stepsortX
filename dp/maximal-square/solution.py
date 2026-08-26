@@ -1,4 +1,4 @@
-# sortsort · Maximal Square
+# Stepsort · Maximal Square
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/maximal-square
 

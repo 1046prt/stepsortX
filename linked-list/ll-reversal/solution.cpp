@@ -1,4 +1,4 @@
-// sortsort · Reversal
+// Stepsort · Reversal
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-reversal
 

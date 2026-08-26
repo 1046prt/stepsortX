@@ -1,4 +1,4 @@
-# sortsort · Bipartite Check
+# Stepsort · Bipartite Check
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bipartite-check
 

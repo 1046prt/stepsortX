@@ -1,4 +1,4 @@
-// sortsort · Find Missing Number
+// Stepsort · Find Missing Number
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/find-missing-number
 

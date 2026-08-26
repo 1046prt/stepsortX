@@ -1,4 +1,4 @@
-# sortsort · Two Sum (Hash Map)
+# Stepsort · Two Sum (Hash Map)
 # Category: Hashing
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/two-sum-hash
 

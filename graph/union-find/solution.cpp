@@ -1,4 +1,4 @@
-// sortsort · Union-Find (DSU)
+// Stepsort · Union-Find (DSU)
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/union-find
 

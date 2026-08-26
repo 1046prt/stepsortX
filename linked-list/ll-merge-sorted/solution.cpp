@@ -1,4 +1,4 @@
-// sortsort · Merge Two Sorted Lists
+// Stepsort · Merge Two Sorted Lists
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-merge-sorted
 

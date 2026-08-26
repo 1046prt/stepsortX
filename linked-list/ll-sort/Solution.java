@@ -1,4 +1,4 @@
-// sortsort · Sort Linked List
+// Stepsort · Sort Linked List
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-sort
 

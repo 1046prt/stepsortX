@@ -1,4 +1,4 @@
-// sortsort · Rolling Hash Collision Demo
+// Stepsort · Rolling Hash Collision Demo
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rolling-hash-collision
 

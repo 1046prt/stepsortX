@@ -1,4 +1,4 @@
-# sortsort · BST Search
+# Stepsort · BST Search
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bst-search
 

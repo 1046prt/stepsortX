@@ -1,4 +1,4 @@
-// sortsort · Insertion Sort
+// Stepsort · Insertion Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/insertion-sort
 

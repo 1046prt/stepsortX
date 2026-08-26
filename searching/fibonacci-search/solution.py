@@ -1,4 +1,4 @@
-# sortsort · Fibonacci Search
+# Stepsort · Fibonacci Search
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fibonacci-search
 

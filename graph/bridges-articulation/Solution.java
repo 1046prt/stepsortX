@@ -1,4 +1,4 @@
-// sortsort · Bridges & Articulation Points
+// Stepsort · Bridges & Articulation Points
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bridges-articulation
 

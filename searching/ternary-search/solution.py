@@ -1,4 +1,4 @@
-# sortsort · Ternary Search
+# Stepsort · Ternary Search
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ternary-search
 

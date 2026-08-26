@@ -1,4 +1,4 @@
-// sortsort · Sudoku Solver
+// Stepsort · Sudoku Solver
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sudoku-solver
 

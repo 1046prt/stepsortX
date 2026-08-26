@@ -1,4 +1,4 @@
-# sortsort · Fast Exponentiation
+# Stepsort · Fast Exponentiation
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fast-exponentiation
 

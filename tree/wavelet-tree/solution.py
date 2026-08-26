@@ -1,4 +1,4 @@
-# sortsort · Wavelet Tree
+# Stepsort · Wavelet Tree
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/wavelet-tree
 

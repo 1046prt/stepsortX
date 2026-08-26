@@ -1,4 +1,4 @@
-# sortsort · Interpolation Search
+# Stepsort · Interpolation Search
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/interpolation-search
 

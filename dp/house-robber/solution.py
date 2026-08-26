@@ -1,4 +1,4 @@
-# sortsort · House Robber
+# Stepsort · House Robber
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/house-robber
 

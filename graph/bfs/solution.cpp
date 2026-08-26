@@ -1,4 +1,4 @@
-// sortsort · BFS
+// Stepsort · BFS
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bfs
 

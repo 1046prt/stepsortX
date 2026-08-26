@@ -1,4 +1,4 @@
-// sortsort · Minimum Cut Reconstruction
+// Stepsort · Minimum Cut Reconstruction
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/min-cut-reconstruction
 

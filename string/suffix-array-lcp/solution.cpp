@@ -1,4 +1,4 @@
-// sortsort · Suffix Array + LCP
+// Stepsort · Suffix Array + LCP
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/suffix-array-lcp
 

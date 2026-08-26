@@ -1,4 +1,4 @@
-// sortsort · Preorder Traversal
+// Stepsort · Preorder Traversal
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/preorder
 

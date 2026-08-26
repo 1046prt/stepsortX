@@ -1,4 +1,4 @@
-// sortsort · Manacher's Algorithm
+// Stepsort · Manacher's Algorithm
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/manacher
 

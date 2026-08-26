@@ -1,4 +1,4 @@
-// sortsort · General Graph Matching
+// Stepsort · General Graph Matching
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/general-matching
 

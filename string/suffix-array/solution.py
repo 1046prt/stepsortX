@@ -1,4 +1,4 @@
-# sortsort · Suffix Array
+# Stepsort · Suffix Array
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/suffix-array
 

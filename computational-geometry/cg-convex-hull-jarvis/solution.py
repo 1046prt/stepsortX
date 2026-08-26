@@ -1,4 +1,4 @@
-# sortsort · Jarvis March
+# Stepsort · Jarvis March
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-convex-hull-jarvis
 

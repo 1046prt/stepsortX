@@ -1,4 +1,4 @@
-# sortsort · Activity Selection
+# Stepsort · Activity Selection
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/activity-selection
 

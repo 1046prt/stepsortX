@@ -1,4 +1,4 @@
-# sortsort · Pigeonhole Sort
+# Stepsort · Pigeonhole Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/pigeonhole-sort
 

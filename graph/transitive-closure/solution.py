@@ -1,4 +1,4 @@
-# sortsort · Transitive Closure
+# Stepsort · Transitive Closure
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/transitive-closure
 

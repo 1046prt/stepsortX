@@ -1,4 +1,4 @@
-# sortsort · Chinese Remainder Theorem
+# Stepsort · Chinese Remainder Theorem
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/chinese-remainder
 

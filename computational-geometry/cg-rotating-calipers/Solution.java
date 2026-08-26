@@ -1,4 +1,4 @@
-// sortsort · Rotating Calipers
+// Stepsort · Rotating Calipers
 // Category: Computational Geometry
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-rotating-calipers
 

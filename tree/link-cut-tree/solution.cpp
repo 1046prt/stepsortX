@@ -1,4 +1,4 @@
-// sortsort · Link-Cut Tree
+// Stepsort · Link-Cut Tree
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/link-cut-tree
 

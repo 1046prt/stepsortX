@@ -1,4 +1,4 @@
-// sortsort · Edmonds-Karp
+// Stepsort · Edmonds-Karp
 // Category: Network Flow & Matching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-edmonds-karp
 

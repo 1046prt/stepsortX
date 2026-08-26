@@ -1,4 +1,4 @@
-# sortsort · Bitonic Sort
+# Stepsort · Bitonic Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bitonic-sort
 

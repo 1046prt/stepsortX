@@ -1,4 +1,4 @@
-# sortsort · Sieve of Eratosthenes
+# Stepsort · Sieve of Eratosthenes
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sieve-eratosthenes
 

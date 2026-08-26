@@ -1,4 +1,4 @@
-# sortsort · Rolling Hash (Polynomial)
+# Stepsort · Rolling Hash (Polynomial)
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rolling-hash
 

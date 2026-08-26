@@ -1,4 +1,4 @@
-# sortsort · Heavy-Light Decomposition
+# Stepsort · Heavy-Light Decomposition
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/heavy-light-decomposition
 

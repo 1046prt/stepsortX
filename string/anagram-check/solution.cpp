@@ -1,4 +1,4 @@
-// sortsort · Anagram Check
+// Stepsort · Anagram Check
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/anagram-check
 

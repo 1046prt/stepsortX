@@ -1,4 +1,4 @@
-// sortsort · Copy with Random Pointer
+// Stepsort · Copy with Random Pointer
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-copy-random
 

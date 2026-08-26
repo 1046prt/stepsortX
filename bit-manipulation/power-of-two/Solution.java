@@ -1,4 +1,4 @@
-// sortsort · Power of Two Check
+// Stepsort · Power of Two Check
 // Category: Bit Manipulation
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/power-of-two
 

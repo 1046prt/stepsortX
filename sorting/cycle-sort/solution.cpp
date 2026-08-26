@@ -1,4 +1,4 @@
-// sortsort · Cycle Sort
+// Stepsort · Cycle Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cycle-sort
 

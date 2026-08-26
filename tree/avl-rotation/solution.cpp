@@ -1,4 +1,4 @@
-// sortsort · AVL Rotations
+// Stepsort · AVL Rotations
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/avl-rotation
 

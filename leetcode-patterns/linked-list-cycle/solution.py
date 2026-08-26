@@ -1,4 +1,4 @@
-# sortsort · Linked List Cycle
+# Stepsort · Linked List Cycle
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/linked-list-cycle
 

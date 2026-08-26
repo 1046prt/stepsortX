@@ -1,4 +1,4 @@
-// sortsort · Frequency Count
+// Stepsort · Frequency Count
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/count-frequency
 

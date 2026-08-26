@@ -1,4 +1,4 @@
-# sortsort · Quadratic Probing
+# Stepsort · Quadratic Probing
 # Category: Hashing
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-quadratic-probing
 

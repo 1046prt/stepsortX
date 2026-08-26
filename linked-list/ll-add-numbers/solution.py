@@ -1,4 +1,4 @@
-# sortsort · Add Two Numbers
+# Stepsort · Add Two Numbers
 # Category: Linked List
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-add-numbers
 

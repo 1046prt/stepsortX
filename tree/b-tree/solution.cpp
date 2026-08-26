@@ -1,4 +1,4 @@
-// sortsort · B-Tree Operations
+// Stepsort · B-Tree Operations
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/b-tree
 

@@ -1,4 +1,4 @@
-# sortsort · Lazy Propagation Segment Tree
+# Stepsort · Lazy Propagation Segment Tree
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lazy-segment-tree
 

@@ -1,4 +1,4 @@
-// sortsort · Z Algorithm
+// Stepsort · Z Algorithm
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/z-algorithm
 

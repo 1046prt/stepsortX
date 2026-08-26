@@ -1,4 +1,4 @@
-# sortsort · Dijkstra's
+# Stepsort · Dijkstra's
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dijkstra
 

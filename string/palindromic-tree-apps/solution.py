@@ -1,4 +1,4 @@
-# sortsort · Palindromic Tree Applications
+# Stepsort · Palindromic Tree Applications
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/palindromic-tree-apps
 

@@ -1,4 +1,4 @@
-# sortsort · Flatten Multi-Level List
+# Stepsort · Flatten Multi-Level List
 # Category: Linked List
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-flatten
 

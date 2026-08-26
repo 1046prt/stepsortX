@@ -1,4 +1,4 @@
-# sortsort · Binary Search on Answer
+# Stepsort · Binary Search on Answer
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/binary-search-on-answer
 

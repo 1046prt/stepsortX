@@ -1,4 +1,4 @@
-# sortsort · Trie Insert & Search
+# Stepsort · Trie Insert & Search
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/trie-insert-search
 

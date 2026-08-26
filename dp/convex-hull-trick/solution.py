@@ -1,4 +1,4 @@
-# sortsort · Convex Hull Trick
+# Stepsort · Convex Hull Trick
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/convex-hull-trick
 

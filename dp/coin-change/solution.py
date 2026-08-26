@@ -1,4 +1,4 @@
-# sortsort · Coin Change
+# Stepsort · Coin Change
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/coin-change
 

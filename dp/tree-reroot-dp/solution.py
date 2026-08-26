@@ -1,4 +1,4 @@
-# sortsort · Tree Rerooting DP
+# Stepsort · Tree Rerooting DP
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tree-reroot-dp
 

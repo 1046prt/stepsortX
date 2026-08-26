@@ -1,4 +1,4 @@
-// sortsort · Sweep Line Intersections
+// Stepsort · Sweep Line Intersections
 // Category: Computational Geometry
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-sweep-line
 

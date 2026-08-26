@@ -1,4 +1,4 @@
-// sortsort · Tree Diameter
+// Stepsort · Tree Diameter
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tree-diameter
 

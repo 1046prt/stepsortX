@@ -1,4 +1,4 @@
-# sortsort · Knight's Tour
+# Stepsort · Knight's Tour
 # Category: Backtracking
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/knight-tour
 

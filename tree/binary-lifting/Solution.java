@@ -1,4 +1,4 @@
-// sortsort · Binary Lifting (LCA)
+// Stepsort · Binary Lifting (LCA)
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/binary-lifting
 

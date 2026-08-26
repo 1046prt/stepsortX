@@ -1,4 +1,4 @@
-# sortsort · Hamming Distance
+# Stepsort · Hamming Distance
 # Category: Bit Manipulation
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hamming-distance
 

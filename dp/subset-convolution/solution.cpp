@@ -1,4 +1,4 @@
-// sortsort · Subset Convolution
+// Stepsort · Subset Convolution
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/subset-convolution
 

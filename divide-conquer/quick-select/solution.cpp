@@ -1,4 +1,4 @@
-// sortsort · Quick Select
+// Stepsort · Quick Select
 // Category: Divide & Conquer
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/quick-select
 

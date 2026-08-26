@@ -1,4 +1,4 @@
-# sortsort · 0-1 BFS
+# Stepsort · 0-1 BFS
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/zero-one-bfs
 

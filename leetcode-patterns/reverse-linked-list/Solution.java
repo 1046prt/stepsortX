@@ -1,4 +1,4 @@
-// sortsort · Reverse Linked List
+// Stepsort · Reverse Linked List
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/reverse-linked-list
 

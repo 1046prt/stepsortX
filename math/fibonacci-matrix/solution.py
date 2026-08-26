@@ -1,4 +1,4 @@
-# sortsort · Fibonacci (Matrix Exp)
+# Stepsort · Fibonacci (Matrix Exp)
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fibonacci-matrix
 

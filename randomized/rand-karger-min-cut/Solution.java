@@ -1,4 +1,4 @@
-// sortsort · Karger's Min Cut
+// Stepsort · Karger's Min Cut
 // Category: Randomized Algorithms
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-karger-min-cut
 

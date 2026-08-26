@@ -1,4 +1,4 @@
-// sortsort · Mo's Algorithm
+// Stepsort · Mo's Algorithm
 // Category: Divide & Conquer
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/mo-algorithm
 

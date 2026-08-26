@@ -1,4 +1,4 @@
-# sortsort · Skip List
+# Stepsort · Skip List
 # Category: Randomized Algorithms
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-skip-list
 

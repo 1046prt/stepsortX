@@ -1,4 +1,4 @@
-# sortsort · Eertree (Palindromic Tree)
+# Stepsort · Eertree (Palindromic Tree)
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/eertree
 

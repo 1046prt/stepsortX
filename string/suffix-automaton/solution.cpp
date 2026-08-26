@@ -1,4 +1,4 @@
-// sortsort · Suffix Automaton
+// Stepsort · Suffix Automaton
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/suffix-automaton
 

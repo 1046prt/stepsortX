@@ -1,4 +1,4 @@
-// sortsort · N-Queens
+// Stepsort · N-Queens
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/n-queens
 

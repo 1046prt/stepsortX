@@ -1,4 +1,4 @@
-// sortsort · Stern-Brocot Tree
+// Stepsort · Stern-Brocot Tree
 // Category: Number Theory (Adv)
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nt-stern-brocot
 

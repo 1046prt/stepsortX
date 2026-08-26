@@ -1,4 +1,4 @@
-# sortsort · Binary Search (D&C)
+# Stepsort · Binary Search (D&C)
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/binary-search-dc
 

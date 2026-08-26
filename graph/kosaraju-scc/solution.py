@@ -1,4 +1,4 @@
-# sortsort · Kosaraju's SCC
+# Stepsort · Kosaraju's SCC
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/kosaraju-scc
 

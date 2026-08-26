@@ -1,4 +1,4 @@
-# sortsort · Multi-Source 0-1 BFS
+# Stepsort · Multi-Source 0-1 BFS
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/multi-source-01-bfs
 

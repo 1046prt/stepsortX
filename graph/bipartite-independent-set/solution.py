@@ -1,4 +1,4 @@
-# sortsort · Bipartite Independent Set
+# Stepsort · Bipartite Independent Set
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bipartite-independent-set
 

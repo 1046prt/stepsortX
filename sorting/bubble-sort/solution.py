@@ -1,4 +1,4 @@
-# sortsort · Bubble Sort
+# Stepsort · Bubble Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bubble-sort
 

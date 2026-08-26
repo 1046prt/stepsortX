@@ -1,4 +1,4 @@
-// sortsort · Eulerian Path/Circuit
+// Stepsort · Eulerian Path/Circuit
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/eulerian-path
 

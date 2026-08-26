@@ -1,4 +1,4 @@
-// sortsort · Rod Cutting
+// Stepsort · Rod Cutting
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rod-cutting
 

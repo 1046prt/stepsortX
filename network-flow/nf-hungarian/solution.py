@@ -1,4 +1,4 @@
-# sortsort · Hungarian Algorithm
+# Stepsort · Hungarian Algorithm
 # Category: Network Flow & Matching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-hungarian
 

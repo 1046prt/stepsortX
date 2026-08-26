@@ -1,4 +1,4 @@
-# sortsort · Pollard's Rho
+# Stepsort · Pollard's Rho
 # Category: Number Theory (Adv)
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nt-pollard-rho
 

@@ -1,4 +1,4 @@
-# sortsort · Bogo Sort
+# Stepsort · Bogo Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bogo-sort
 

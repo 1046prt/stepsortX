@@ -1,4 +1,4 @@
-# sortsort · Insertion
+# Stepsort · Insertion
 # Category: Linked List
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-insertion
 

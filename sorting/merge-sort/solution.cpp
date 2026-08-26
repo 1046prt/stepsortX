@@ -1,4 +1,4 @@
-// sortsort · Merge Sort
+// Stepsort · Merge Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/merge-sort
 

@@ -1,4 +1,4 @@
-# sortsort · Optimal Merge Pattern
+# Stepsort · Optimal Merge Pattern
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/optimal-merge
 

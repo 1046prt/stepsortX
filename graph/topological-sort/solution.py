@@ -1,4 +1,4 @@
-# sortsort · Topological Sort
+# Stepsort · Topological Sort
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/topological-sort
 

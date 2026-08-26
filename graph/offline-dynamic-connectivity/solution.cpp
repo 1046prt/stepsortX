@@ -1,4 +1,4 @@
-// sortsort · Offline Dynamic Connectivity
+// Stepsort · Offline Dynamic Connectivity
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/offline-dynamic-connectivity
 

@@ -1,4 +1,4 @@
-// sortsort · Linear Probing
+// Stepsort · Linear Probing
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-linear-probing
 

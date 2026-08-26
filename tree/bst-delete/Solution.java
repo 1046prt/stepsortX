@@ -1,4 +1,4 @@
-// sortsort · BST Delete
+// Stepsort · BST Delete
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bst-delete
 

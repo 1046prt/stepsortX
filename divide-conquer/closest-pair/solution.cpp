@@ -1,4 +1,4 @@
-// sortsort · Closest Pair of Points
+// Stepsort · Closest Pair of Points
 // Category: Divide & Conquer
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/closest-pair
 

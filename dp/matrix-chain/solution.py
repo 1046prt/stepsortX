@@ -1,4 +1,4 @@
-# sortsort · Matrix Chain Multiplication
+# Stepsort · Matrix Chain Multiplication
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/matrix-chain
 

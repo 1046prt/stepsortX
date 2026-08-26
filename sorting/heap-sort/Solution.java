@@ -1,4 +1,4 @@
-// sortsort · Heap Sort
+// Stepsort · Heap Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/heap-sort
 

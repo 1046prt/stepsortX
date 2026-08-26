@@ -1,4 +1,4 @@
-# sortsort · Shell Sort
+# Stepsort · Shell Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/shell-sort
 

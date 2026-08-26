@@ -1,4 +1,4 @@
-# sortsort · Polygon Area (Shoelace)
+# Stepsort · Polygon Area (Shoelace)
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-polygon-area
 

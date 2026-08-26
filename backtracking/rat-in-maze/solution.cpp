@@ -1,4 +1,4 @@
-// sortsort · Rat in a Maze
+// Stepsort · Rat in a Maze
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rat-in-maze
 

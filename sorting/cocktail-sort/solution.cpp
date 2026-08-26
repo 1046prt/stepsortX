@@ -1,4 +1,4 @@
-// sortsort · Cocktail Shaker Sort
+// Stepsort · Cocktail Shaker Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cocktail-sort
 

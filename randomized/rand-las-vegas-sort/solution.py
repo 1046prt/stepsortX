@@ -1,4 +1,4 @@
-# sortsort · Las Vegas Sort
+# Stepsort · Las Vegas Sort
 # Category: Randomized Algorithms
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rand-las-vegas-sort
 

@@ -1,4 +1,4 @@
-// sortsort · Lowest Common Ancestor
+// Stepsort · Lowest Common Ancestor
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lca
 

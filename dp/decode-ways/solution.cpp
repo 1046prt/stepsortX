@@ -1,4 +1,4 @@
-// sortsort · Decode Ways
+// Stepsort · Decode Ways
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/decode-ways
 

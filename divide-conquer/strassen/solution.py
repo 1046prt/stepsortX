@@ -1,4 +1,4 @@
-# sortsort · Strassen's Multiplication
+# Stepsort · Strassen's Multiplication
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/strassen
 

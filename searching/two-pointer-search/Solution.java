@@ -1,4 +1,4 @@
-// sortsort · Two Pointer Search
+// Stepsort · Two Pointer Search
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/two-pointer-search
 

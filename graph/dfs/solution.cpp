@@ -1,4 +1,4 @@
-// sortsort · DFS
+// Stepsort · DFS
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dfs
 

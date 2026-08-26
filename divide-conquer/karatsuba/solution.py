@@ -1,4 +1,4 @@
-# sortsort · Karatsuba Multiplication
+# Stepsort · Karatsuba Multiplication
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/karatsuba
 

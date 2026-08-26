@@ -1,4 +1,4 @@
-// sortsort · Aho-Corasick Failure Links
+// Stepsort · Aho-Corasick Failure Links
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/aho-corasick-failure-links
 

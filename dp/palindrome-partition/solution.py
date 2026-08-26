@@ -1,4 +1,4 @@
-# sortsort · Palindrome Partitioning
+# Stepsort · Palindrome Partitioning
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/palindrome-partition
 

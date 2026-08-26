@@ -1,4 +1,4 @@
-# sortsort · Maximum Subarray
+# Stepsort · Maximum Subarray
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/max-subarray
 

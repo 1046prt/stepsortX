@@ -1,4 +1,4 @@
-# sortsort · Merge Intervals
+# Stepsort · Merge Intervals
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/merge-intervals
 

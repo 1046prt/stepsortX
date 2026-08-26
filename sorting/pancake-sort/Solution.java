@@ -1,4 +1,4 @@
-// sortsort · Pancake Sort
+// Stepsort · Pancake Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/pancake-sort
 

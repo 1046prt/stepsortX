@@ -1,4 +1,4 @@
-# sortsort · Interval DP (Matrix Chain)
+# Stepsort · Interval DP (Matrix Chain)
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/interval-dp-matrix-chain
 

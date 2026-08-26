@@ -1,4 +1,4 @@
-# sortsort · Word Break
+# Stepsort · Word Break
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/word-break
 

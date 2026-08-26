@@ -1,4 +1,4 @@
-// sortsort · Palindrome Check
+// Stepsort · Palindrome Check
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-palindrome
 

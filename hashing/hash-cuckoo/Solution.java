@@ -1,4 +1,4 @@
-// sortsort · Cuckoo Hashing
+// Stepsort · Cuckoo Hashing
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-cuckoo
 

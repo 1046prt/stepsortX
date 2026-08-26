@@ -1,4 +1,4 @@
-# sortsort · Gas Station
+# Stepsort · Gas Station
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/gas-station
 

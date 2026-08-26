@@ -1,4 +1,4 @@
-# sortsort · Morris Traversal
+# Stepsort · Morris Traversal
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/morris-traversal
 

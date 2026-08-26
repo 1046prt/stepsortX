@@ -1,4 +1,4 @@
-// sortsort · Boruvka's MST
+// Stepsort · Boruvka's MST
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/boruvka-mst
 

@@ -1,4 +1,4 @@
-// sortsort · Treap
+// Stepsort · Treap
 // Category: Randomized Algorithms
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/treap
 

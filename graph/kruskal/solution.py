@@ -1,4 +1,4 @@
-# sortsort · Kruskal's MST
+# Stepsort · Kruskal's MST
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/kruskal
 

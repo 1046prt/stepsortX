@@ -1,4 +1,4 @@
-# sortsort · Inorder Traversal
+# Stepsort · Inorder Traversal
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/inorder
 

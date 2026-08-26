@@ -1,4 +1,4 @@
-# sortsort · Voronoi Diagram
+# Stepsort · Voronoi Diagram
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-voronoi
 

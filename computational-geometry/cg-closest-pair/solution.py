@@ -1,4 +1,4 @@
-# sortsort · Closest Pair (D&C)
+# Stepsort · Closest Pair (D&C)
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-closest-pair
 

@@ -1,4 +1,4 @@
-# sortsort · Fenwick Tree (BIT)
+# Stepsort · Fenwick Tree (BIT)
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fenwick-tree
 

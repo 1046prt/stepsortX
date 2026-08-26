@@ -1,4 +1,4 @@
-# sortsort · Heap Insert
+# Stepsort · Heap Insert
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/heap-insert
 

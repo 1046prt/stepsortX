@@ -1,4 +1,4 @@
-// sortsort · Exponential Search
+// Stepsort · Exponential Search
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/exponential-search
 

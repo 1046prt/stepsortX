@@ -1,4 +1,4 @@
-# sortsort · DAG Dynamic Programming
+# Stepsort · DAG Dynamic Programming
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dag-dp
 

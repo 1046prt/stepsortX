@@ -1,4 +1,4 @@
-# sortsort · Longest Increasing Subsequence
+# Stepsort · Longest Increasing Subsequence
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lis
 

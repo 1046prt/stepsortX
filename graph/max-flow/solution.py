@@ -1,4 +1,4 @@
-# sortsort · Ford-Fulkerson Max Flow
+# Stepsort · Ford-Fulkerson Max Flow
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/max-flow
 

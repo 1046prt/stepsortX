@@ -1,4 +1,4 @@
-# sortsort · Graham Scan
+# Stepsort · Graham Scan
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-convex-hull-graham
 

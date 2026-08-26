@@ -1,4 +1,4 @@
-# sortsort · Line Intersection
+# Stepsort · Line Intersection
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-line-intersection
 

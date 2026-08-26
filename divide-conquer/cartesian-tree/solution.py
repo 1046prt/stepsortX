@@ -1,4 +1,4 @@
-# sortsort · Cartesian Tree
+# Stepsort · Cartesian Tree
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cartesian-tree
 

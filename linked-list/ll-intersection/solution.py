@@ -1,4 +1,4 @@
-# sortsort · Find Intersection
+# Stepsort · Find Intersection
 # Category: Linked List
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-intersection
 

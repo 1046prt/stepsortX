@@ -1,4 +1,4 @@
-// sortsort · Jump Game
+// Stepsort · Jump Game
 // Category: Greedy
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/jump-game
 

@@ -1,4 +1,4 @@
-// sortsort · M-Coloring Problem
+// Stepsort · M-Coloring Problem
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/graph-coloring-bt
 

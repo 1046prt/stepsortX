@@ -1,4 +1,4 @@
-// sortsort · Cycle Detection
+// Stepsort · Cycle Detection
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cycle-detection-graph
 

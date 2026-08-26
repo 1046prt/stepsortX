@@ -1,4 +1,4 @@
-// sortsort · Consistent Hashing
+// Stepsort · Consistent Hashing
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/consistent-hashing
 

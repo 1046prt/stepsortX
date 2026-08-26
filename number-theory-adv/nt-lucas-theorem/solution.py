@@ -1,4 +1,4 @@
-# sortsort · Lucas' Theorem
+# Stepsort · Lucas' Theorem
 # Category: Number Theory (Adv)
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nt-lucas-theorem
 

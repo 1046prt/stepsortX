@@ -1,4 +1,4 @@
-// sortsort · LRU Cache
+// Stepsort · LRU Cache
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lru-cache
 

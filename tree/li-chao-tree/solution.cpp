@@ -1,4 +1,4 @@
-// sortsort · Li Chao Tree
+// Stepsort · Li Chao Tree
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/li-chao-tree
 

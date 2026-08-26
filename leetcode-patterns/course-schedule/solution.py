@@ -1,4 +1,4 @@
-# sortsort · Course Schedule
+# Stepsort · Course Schedule
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/course-schedule
 

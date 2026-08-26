@@ -1,4 +1,4 @@
-// sortsort · Tree Sort
+// Stepsort · Tree Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tree-sort
 

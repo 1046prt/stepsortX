@@ -1,4 +1,4 @@
-// sortsort · Prim's MST
+// Stepsort · Prim's MST
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/prim
 

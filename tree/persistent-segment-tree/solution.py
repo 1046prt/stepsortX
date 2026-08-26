@@ -1,4 +1,4 @@
-# sortsort · Persistent Segment Tree
+# Stepsort · Persistent Segment Tree
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/persistent-segment-tree
 

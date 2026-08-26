@@ -1,4 +1,4 @@
-// sortsort · LIS Reconstruction
+// Stepsort · LIS Reconstruction
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lis-reconstruction
 

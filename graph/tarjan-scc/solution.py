@@ -1,4 +1,4 @@
-# sortsort · Tarjan's SCC
+# Stepsort · Tarjan's SCC
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tarjan-scc
 

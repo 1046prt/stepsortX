@@ -1,4 +1,4 @@
-# sortsort · Comb Sort
+# Stepsort · Comb Sort
 # Category: Sorting
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/comb-sort
 

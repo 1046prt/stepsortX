@@ -1,4 +1,4 @@
-// sortsort · Chaining
+// Stepsort · Chaining
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-chaining
 

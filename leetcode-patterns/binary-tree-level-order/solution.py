@@ -1,4 +1,4 @@
-# sortsort · Binary Tree Level Order
+# Stepsort · Binary Tree Level Order
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/binary-tree-level-order
 

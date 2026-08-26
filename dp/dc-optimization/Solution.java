@@ -1,4 +1,4 @@
-// sortsort · Divide & Conquer Optimization
+// Stepsort · Divide & Conquer Optimization
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dc-optimization
 

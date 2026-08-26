@@ -1,4 +1,4 @@
-// sortsort · Suffix Tree (Compressed)
+// Stepsort · Suffix Tree (Compressed)
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/suffix-tree-construction
 

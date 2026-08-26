@@ -1,4 +1,4 @@
-# sortsort · Depth-Limited Search
+# Stepsort · Depth-Limited Search
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/depth-limited-search
 

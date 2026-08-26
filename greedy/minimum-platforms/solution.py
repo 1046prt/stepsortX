@@ -1,4 +1,4 @@
-# sortsort · Minimum Platforms
+# Stepsort · Minimum Platforms
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/minimum-platforms
 

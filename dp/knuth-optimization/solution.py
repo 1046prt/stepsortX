@@ -1,4 +1,4 @@
-# sortsort · Knuth Optimization (Optimal BST)
+# Stepsort · Knuth Optimization (Optimal BST)
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/knuth-optimization
 

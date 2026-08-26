@@ -1,4 +1,4 @@
-# sortsort · Interval Scheduling
+# Stepsort · Interval Scheduling
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/interval-scheduling
 

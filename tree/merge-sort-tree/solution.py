@@ -1,4 +1,4 @@
-# sortsort · Merge Sort Tree
+# Stepsort · Merge Sort Tree
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/merge-sort-tree
 

@@ -1,4 +1,4 @@
-// sortsort · Radix Sort
+// Stepsort · Radix Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/radix-sort
 

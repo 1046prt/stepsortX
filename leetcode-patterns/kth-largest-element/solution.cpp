@@ -1,4 +1,4 @@
-// sortsort · Kth Largest Element
+// Stepsort · Kth Largest Element
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/kth-largest-element
 

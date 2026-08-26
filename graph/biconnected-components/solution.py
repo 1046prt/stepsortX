@@ -1,4 +1,4 @@
-# sortsort · Biconnected Components
+# Stepsort · Biconnected Components
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/biconnected-components
 

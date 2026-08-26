@@ -1,4 +1,4 @@
-// sortsort · Subset Sum
+// Stepsort · Subset Sum
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/subset-sum
 

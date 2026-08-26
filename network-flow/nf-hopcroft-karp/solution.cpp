@@ -1,4 +1,4 @@
-// sortsort · Hopcroft-Karp
+// Stepsort · Hopcroft-Karp
 // Category: Network Flow & Matching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-hopcroft-karp
 

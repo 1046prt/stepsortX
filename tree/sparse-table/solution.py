@@ -1,4 +1,4 @@
-# sortsort · Sparse Table (RMQ)
+# Stepsort · Sparse Table (RMQ)
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sparse-table
 

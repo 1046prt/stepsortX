@@ -1,4 +1,4 @@
-// sortsort · Bidirectional Search
+// Stepsort · Bidirectional Search
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bidirectional-search
 

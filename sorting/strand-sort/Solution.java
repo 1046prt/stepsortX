@@ -1,4 +1,4 @@
-// sortsort · Strand Sort
+// Stepsort · Strand Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/strand-sort
 

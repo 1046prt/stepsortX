@@ -1,4 +1,4 @@
-// sortsort · String Reversal
+// Stepsort · String Reversal
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/string-reversal
 

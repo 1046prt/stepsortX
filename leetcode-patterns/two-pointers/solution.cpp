@@ -1,4 +1,4 @@
-// sortsort · Container With Most Water
+// Stepsort · Container With Most Water
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/two-pointers
 

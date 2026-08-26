@@ -1,4 +1,4 @@
-# sortsort · Permutations
+# Stepsort · Permutations
 # Category: Backtracking
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/permutations
 

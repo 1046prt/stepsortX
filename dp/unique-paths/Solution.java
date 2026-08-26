@@ -1,4 +1,4 @@
-// sortsort · Unique Paths
+// Stepsort · Unique Paths
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/unique-paths
 

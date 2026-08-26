@@ -1,4 +1,4 @@
-# sortsort · Longest Palindromic Substring
+# Stepsort · Longest Palindromic Substring
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/longest-palindrome
 

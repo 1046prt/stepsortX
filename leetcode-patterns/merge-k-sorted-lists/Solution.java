@@ -1,4 +1,4 @@
-// sortsort · Merge K Sorted Lists
+// Stepsort · Merge K Sorted Lists
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/merge-k-sorted-lists
 

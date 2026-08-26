@@ -1,4 +1,4 @@
-# sortsort · Centroid Decomposition
+# Stepsort · Centroid Decomposition
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/centroid-decomposition
 

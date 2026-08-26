@@ -1,4 +1,4 @@
-# sortsort · Find Median from Data Stream
+# Stepsort · Find Median from Data Stream
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/find-median-data-stream
 

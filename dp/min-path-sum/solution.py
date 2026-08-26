@@ -1,4 +1,4 @@
-# sortsort · Minimum Path Sum
+# Stepsort · Minimum Path Sum
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/min-path-sum
 

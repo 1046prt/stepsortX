@@ -1,4 +1,4 @@
-// sortsort · Sliding Window Maximum
+// Stepsort · Sliding Window Maximum
 // Category: LeetCode Patterns
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sliding-window-maximum
 

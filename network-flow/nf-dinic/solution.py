@@ -1,4 +1,4 @@
-# sortsort · Dinic's Algorithm
+# Stepsort · Dinic's Algorithm
 # Category: Network Flow & Matching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-dinic
 

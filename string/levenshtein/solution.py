@@ -1,4 +1,4 @@
-# sortsort · Levenshtein Distance
+# Stepsort · Levenshtein Distance
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/levenshtein
 

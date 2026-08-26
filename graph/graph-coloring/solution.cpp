@@ -1,4 +1,4 @@
-// sortsort · Graph Coloring
+// Stepsort · Graph Coloring
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/graph-coloring
 

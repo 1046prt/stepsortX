@@ -1,4 +1,4 @@
-# sortsort · Robin Hood Hashing
+# Stepsort · Robin Hood Hashing
 # Category: Hashing
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hash-robin-hood
 

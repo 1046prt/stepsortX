@@ -1,4 +1,4 @@
-// sortsort · Iterative Deepening DFS
+// Stepsort · Iterative Deepening DFS
 // Category: Searching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/iterative-deepening
 

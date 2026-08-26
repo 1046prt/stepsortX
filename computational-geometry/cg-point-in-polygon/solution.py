@@ -1,4 +1,4 @@
-# sortsort · Point in Polygon
+# Stepsort · Point in Polygon
 # Category: Computational Geometry
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/cg-point-in-polygon
 

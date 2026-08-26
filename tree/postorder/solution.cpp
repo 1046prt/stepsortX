@@ -1,4 +1,4 @@
-// sortsort · Postorder Traversal
+// Stepsort · Postorder Traversal
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/postorder
 

@@ -1,4 +1,4 @@
-# sortsort · 0/1 Knapsack
+# Stepsort · 0/1 Knapsack
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/knapsack
 

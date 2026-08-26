@@ -1,4 +1,4 @@
-# sortsort · Bellman-Ford
+# Stepsort · Bellman-Ford
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bellman-ford
 

@@ -1,4 +1,4 @@
-# sortsort · Level-order Traversal
+# Stepsort · Level-order Traversal
 # Category: Tree
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/level-order
 

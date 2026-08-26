@@ -1,4 +1,4 @@
-// sortsort · DSU on Tree (Small-to-Large)
+// Stepsort · DSU on Tree (Small-to-Large)
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dsu-on-tree
 

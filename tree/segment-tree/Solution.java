@@ -1,4 +1,4 @@
-// sortsort · Segment Tree
+// Stepsort · Segment Tree
 // Category: Tree
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/segment-tree
 

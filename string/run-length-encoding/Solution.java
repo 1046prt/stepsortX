@@ -1,4 +1,4 @@
-// sortsort · Run-Length Encoding
+// Stepsort · Run-Length Encoding
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/run-length-encoding
 

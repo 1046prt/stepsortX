@@ -1,4 +1,4 @@
-# sortsort · Task Scheduler
+# Stepsort · Task Scheduler
 # Category: Greedy
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/task-scheduler
 

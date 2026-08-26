@@ -1,4 +1,4 @@
-# sortsort · Egg Drop Problem
+# Stepsort · Egg Drop Problem
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/egg-drop
 

@@ -1,4 +1,4 @@
-// sortsort · Ford-Fulkerson
+// Stepsort · Ford-Fulkerson
 // Category: Network Flow & Matching
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-ford-fulkerson
 

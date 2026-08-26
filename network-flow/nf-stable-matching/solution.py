@@ -1,4 +1,4 @@
-# sortsort · Gale-Shapley (Stable Matching)
+# Stepsort · Gale-Shapley (Stable Matching)
 # Category: Network Flow & Matching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-stable-matching
 

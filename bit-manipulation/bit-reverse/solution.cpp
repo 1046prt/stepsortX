@@ -1,4 +1,4 @@
-// sortsort · Reverse Bits
+// Stepsort · Reverse Bits
 // Category: Bit Manipulation
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bit-reverse
 

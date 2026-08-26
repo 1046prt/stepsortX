@@ -1,4 +1,4 @@
-# sortsort · Profile Dynamic Programming
+# Stepsort · Profile Dynamic Programming
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/profile-dp
 

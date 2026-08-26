@@ -1,4 +1,4 @@
-// sortsort · Rotate List
+// Stepsort · Rotate List
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-rotate
 

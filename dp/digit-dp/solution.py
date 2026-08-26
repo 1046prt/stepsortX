@@ -1,4 +1,4 @@
-# sortsort · Digit DP
+# Stepsort · Digit DP
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/digit-dp
 

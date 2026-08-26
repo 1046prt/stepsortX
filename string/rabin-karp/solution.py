@@ -1,4 +1,4 @@
-# sortsort · Rabin-Karp
+# Stepsort · Rabin-Karp
 # Category: String
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/rabin-karp
 

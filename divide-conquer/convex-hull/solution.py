@@ -1,4 +1,4 @@
-# sortsort · Convex Hull
+# Stepsort · Convex Hull
 # Category: Divide & Conquer
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/convex-hull
 

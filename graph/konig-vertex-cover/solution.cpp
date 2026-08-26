@@ -1,4 +1,4 @@
-// sortsort · Konig's Min Vertex Cover
+// Stepsort · Konig's Min Vertex Cover
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/konig-vertex-cover
 

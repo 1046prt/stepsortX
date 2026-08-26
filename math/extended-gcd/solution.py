@@ -1,4 +1,4 @@
-# sortsort · Extended Euclidean GCD
+# Stepsort · Extended Euclidean GCD
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/extended-gcd
 

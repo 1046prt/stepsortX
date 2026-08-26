@@ -1,4 +1,4 @@
-// sortsort · Nth from End
+// Stepsort · Nth from End
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-nth-from-end
 

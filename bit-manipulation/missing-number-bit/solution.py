@@ -1,4 +1,4 @@
-# sortsort · Missing Number (XOR)
+# Stepsort · Missing Number (XOR)
 # Category: Bit Manipulation
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/missing-number-bit
 

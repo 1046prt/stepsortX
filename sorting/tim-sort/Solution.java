@@ -1,4 +1,4 @@
-// sortsort · Tim Sort
+// Stepsort · Tim Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/tim-sort
 

@@ -1,4 +1,4 @@
-# sortsort · Daily Temperatures
+# Stepsort · Daily Temperatures
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/daily-temperatures
 

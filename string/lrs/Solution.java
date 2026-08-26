@@ -1,4 +1,4 @@
-// sortsort · Longest Repeated Substring
+// Stepsort · Longest Repeated Substring
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/lrs
 

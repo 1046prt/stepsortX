@@ -1,4 +1,4 @@
-// sortsort · Capacity Scaling Max Flow
+// Stepsort · Capacity Scaling Max Flow
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/capacity-scaling
 

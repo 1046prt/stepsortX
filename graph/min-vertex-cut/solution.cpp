@@ -1,4 +1,4 @@
-// sortsort · Minimum Vertex Cut
+// Stepsort · Minimum Vertex Cut
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/min-vertex-cut
 

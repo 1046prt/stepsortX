@@ -1,4 +1,4 @@
-// sortsort · Combination Sum
+// Stepsort · Combination Sum
 // Category: Backtracking
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/combination-sum
 

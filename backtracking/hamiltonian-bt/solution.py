@@ -1,4 +1,4 @@
-# sortsort · Hamiltonian Cycle (BT)
+# Stepsort · Hamiltonian Cycle (BT)
 # Category: Backtracking
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/hamiltonian-bt
 

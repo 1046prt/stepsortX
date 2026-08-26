@@ -1,4 +1,4 @@
-// sortsort · Booth's Algorithm
+// Stepsort · Booth's Algorithm
 // Category: String
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/booth-minimal-rotation
 

@@ -1,4 +1,4 @@
-# sortsort · Implement Trie (Prefix Tree)
+# Stepsort · Implement Trie (Prefix Tree)
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/implement-trie
 

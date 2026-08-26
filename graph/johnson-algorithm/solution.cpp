@@ -1,4 +1,4 @@
-// sortsort · Johnson's Algorithm
+// Stepsort · Johnson's Algorithm
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/johnson-algorithm
 

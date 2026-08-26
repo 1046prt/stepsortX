@@ -1,4 +1,4 @@
-// sortsort · Deletion
+// Stepsort · Deletion
 // Category: Linked List
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/ll-deletion
 

@@ -1,4 +1,4 @@
-# sortsort · Counting Bits (DP)
+# Stepsort · Counting Bits (DP)
 # Category: Bit Manipulation
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bit-counting-dp
 

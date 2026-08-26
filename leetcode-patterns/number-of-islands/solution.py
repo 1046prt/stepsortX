@@ -1,4 +1,4 @@
-# sortsort · Number of Islands
+# Stepsort · Number of Islands
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/number-of-islands
 

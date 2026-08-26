@@ -1,4 +1,4 @@
-// sortsort · Coin Change (Greedy)
+// Stepsort · Coin Change (Greedy)
 // Category: Greedy
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/coin-greedy
 

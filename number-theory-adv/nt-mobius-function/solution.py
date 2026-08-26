@@ -1,4 +1,4 @@
-# sortsort · Möbius Function
+# Stepsort · Möbius Function
 # Category: Number Theory (Adv)
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nt-mobius-function
 

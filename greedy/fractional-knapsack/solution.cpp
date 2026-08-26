@@ -1,4 +1,4 @@
-// sortsort · Fractional Knapsack
+// Stepsort · Fractional Knapsack
 // Category: Greedy
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fractional-knapsack
 

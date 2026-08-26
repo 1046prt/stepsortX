@@ -1,4 +1,4 @@
-// sortsort · Euler's Totient
+// Stepsort · Euler's Totient
 // Category: Math & Number Theory
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/euler-totient
 

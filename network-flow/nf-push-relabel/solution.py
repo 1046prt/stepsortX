@@ -1,4 +1,4 @@
-# sortsort · Push-Relabel
+# Stepsort · Push-Relabel
 # Category: Network Flow & Matching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/nf-push-relabel
 

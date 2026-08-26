@@ -1,4 +1,4 @@
-// sortsort · Counting Sort
+// Stepsort · Counting Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/counting-sort
 

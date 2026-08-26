@@ -1,4 +1,4 @@
-// sortsort · Group Anagrams
+// Stepsort · Group Anagrams
 // Category: Hashing
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/group-anagrams
 

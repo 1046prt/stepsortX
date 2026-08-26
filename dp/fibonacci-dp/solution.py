@@ -1,4 +1,4 @@
-# sortsort · Fibonacci
+# Stepsort · Fibonacci
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/fibonacci-dp
 

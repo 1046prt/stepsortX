@@ -1,4 +1,4 @@
-# sortsort · Binary Tree Path Sum
+# Stepsort · Binary Tree Path Sum
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/binary-tree-path-sum
 

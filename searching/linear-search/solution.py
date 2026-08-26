@@ -1,4 +1,4 @@
-# sortsort · Linear Search
+# Stepsort · Linear Search
 # Category: Searching
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/linear-search
 

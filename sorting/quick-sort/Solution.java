@@ -1,4 +1,4 @@
-// sortsort · Quick Sort
+// Stepsort · Quick Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/quick-sort
 

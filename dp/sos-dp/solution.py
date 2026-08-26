@@ -1,4 +1,4 @@
-# sortsort · SOS DP (Sum Over Subsets)
+# Stepsort · SOS DP (Sum Over Subsets)
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/sos-dp
 

@@ -1,4 +1,4 @@
-# sortsort · Partition Equal Subset Sum
+# Stepsort · Partition Equal Subset Sum
 # Category: Dynamic Programming
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/partition-equal-subset
 

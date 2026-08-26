@@ -1,4 +1,4 @@
-// sortsort · Floyd-Warshall
+// Stepsort · Floyd-Warshall
 // Category: Graph
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/floyd-warshall
 

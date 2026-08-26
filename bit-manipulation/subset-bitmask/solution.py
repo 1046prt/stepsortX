@@ -1,4 +1,4 @@
-# sortsort · Subsets via Bitmask
+# Stepsort · Subsets via Bitmask
 # Category: Bit Manipulation
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/subset-bitmask
 

@@ -1,4 +1,4 @@
-// sortsort · Bucket Sort
+// Stepsort · Bucket Sort
 // Category: Sorting
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bucket-sort
 

@@ -1,4 +1,4 @@
-# sortsort · Prime Factorization
+# Stepsort · Prime Factorization
 # Category: Math & Number Theory
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/prime-factorization
 

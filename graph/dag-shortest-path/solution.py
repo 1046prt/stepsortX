@@ -1,4 +1,4 @@
-# sortsort · DAG Shortest Path
+# Stepsort · DAG Shortest Path
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/dag-shortest-path
 

@@ -1,4 +1,4 @@
-// sortsort · Bitmask DP (TSP)
+// Stepsort · Bitmask DP (TSP)
 // Category: Dynamic Programming
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/bitmask-dp-tsp
 

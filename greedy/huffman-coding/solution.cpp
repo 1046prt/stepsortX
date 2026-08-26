@@ -1,4 +1,4 @@
-// sortsort · Huffman Coding
+// Stepsort · Huffman Coding
 // Category: Greedy
 // Animated walkthrough: https://stepsort.prakashraj.me/algorithm/huffman-coding
 

@@ -1,4 +1,4 @@
-# sortsort · A* Search
+# Stepsort · A* Search
 # Category: Graph
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/a-star
 

@@ -1,10 +1,10 @@
-# sortsort Solutions
+# Stepsort Solutions
 
-Companion repository to [**sortsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
+Companion repository to [**Stepsort**](https://stepsort.prakashraj.me) — interactive algorithm visualizations.
 
 Every solution here has a **step-by-step animated walkthrough** on the website. Click the 🎬 links below to watch one execute before reading the code.
 
-**269 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
+**288 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
 
 ## Sorting
 
@@ -82,6 +82,13 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Konig's Min Vertex Cover** | [py](graph/konig-vertex-cover/solution.py) | [cpp](graph/konig-vertex-cover/solution.cpp) | [java](graph/konig-vertex-cover/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/konig-vertex-cover) |
 | **Blossom Algorithm (Edmonds)** | [py](graph/blossom-algorithm/solution.py) | [cpp](graph/blossom-algorithm/solution.cpp) | [java](graph/blossom-algorithm/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/blossom-algorithm) |
 | **Capacity Scaling Max Flow** | [py](graph/capacity-scaling/solution.py) | [cpp](graph/capacity-scaling/solution.cpp) | [java](graph/capacity-scaling/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/capacity-scaling) |
+| **Multi-Source 0-1 BFS** | [py](graph/multi-source-01-bfs/solution.py) | [cpp](graph/multi-source-01-bfs/solution.cpp) | [java](graph/multi-source-01-bfs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/multi-source-01-bfs) |
+| **DAG Dynamic Programming** | [py](graph/dag-dp/solution.py) | [cpp](graph/dag-dp/solution.cpp) | [java](graph/dag-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dag-dp) |
+| **General Graph Matching** | [py](graph/general-matching/solution.py) | [cpp](graph/general-matching/solution.cpp) | [java](graph/general-matching/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/general-matching) |
+| **Minimum Cut Reconstruction** | [py](graph/min-cut-reconstruction/solution.py) | [cpp](graph/min-cut-reconstruction/solution.cpp) | [java](graph/min-cut-reconstruction/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/min-cut-reconstruction) |
+| **Minimum Vertex Cut** | [py](graph/min-vertex-cut/solution.py) | [cpp](graph/min-vertex-cut/solution.cpp) | [java](graph/min-vertex-cut/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/min-vertex-cut) |
+| **Bipartite Independent Set** | [py](graph/bipartite-independent-set/solution.py) | [cpp](graph/bipartite-independent-set/solution.cpp) | [java](graph/bipartite-independent-set/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bipartite-independent-set) |
+| **Transitive Closure** | [py](graph/transitive-closure/solution.py) | [cpp](graph/transitive-closure/solution.cpp) | [java](graph/transitive-closure/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/transitive-closure) |
 
 ## Tree
 
@@ -145,6 +152,13 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Interval DP (Matrix Chain)** | [py](dp/interval-dp-matrix-chain/solution.py) | [cpp](dp/interval-dp-matrix-chain/solution.cpp) | [java](dp/interval-dp-matrix-chain/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/interval-dp-matrix-chain) |
 | **Knuth Optimization (Optimal BST)** | [py](dp/knuth-optimization/solution.py) | [cpp](dp/knuth-optimization/solution.cpp) | [java](dp/knuth-optimization/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/knuth-optimization) |
 | **Divide & Conquer Optimization** | [py](dp/dc-optimization/solution.py) | [cpp](dp/dc-optimization/solution.cpp) | [java](dp/dc-optimization/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dc-optimization) |
+| **Profile Dynamic Programming** | [py](dp/profile-dp/solution.py) | [cpp](dp/profile-dp/solution.cpp) | [java](dp/profile-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/profile-dp) |
+| **SOS DP (Sum Over Subsets)** | [py](dp/sos-dp/solution.py) | [cpp](dp/sos-dp/solution.cpp) | [java](dp/sos-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/sos-dp) |
+| **Subset Convolution** | [py](dp/subset-convolution/solution.py) | [cpp](dp/subset-convolution/solution.cpp) | [java](dp/subset-convolution/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/subset-convolution) |
+| **Multi-Constraint Digit DP** | [py](dp/multi-constraint-digit-dp/solution.py) | [cpp](dp/multi-constraint-digit-dp/solution.cpp) | [java](dp/multi-constraint-digit-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/multi-constraint-digit-dp) |
+| **Tree Rerooting DP** | [py](dp/tree-reroot-dp/solution.py) | [cpp](dp/tree-reroot-dp/solution.cpp) | [java](dp/tree-reroot-dp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/tree-reroot-dp) |
+| **LIS Reconstruction** | [py](dp/lis-reconstruction/solution.py) | [cpp](dp/lis-reconstruction/solution.cpp) | [java](dp/lis-reconstruction/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lis-reconstruction) |
+| **Knapsack Optimizations** | [py](dp/knapsack-optimizations/solution.py) | [cpp](dp/knapsack-optimizations/solution.cpp) | [java](dp/knapsack-optimizations/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/knapsack-optimizations) |
 
 ## Greedy
 
@@ -202,6 +216,11 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Eertree (Palindromic Tree)** | [py](string/eertree/solution.py) | [cpp](string/eertree/solution.cpp) | [java](string/eertree/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/eertree) |
 | **Rolling Hash (Polynomial)** | [py](string/rolling-hash/solution.py) | [cpp](string/rolling-hash/solution.cpp) | [java](string/rolling-hash/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rolling-hash) |
 | **Aho-Corasick Failure Links** | [py](string/aho-corasick-failure-links/solution.py) | [cpp](string/aho-corasick-failure-links/solution.cpp) | [java](string/aho-corasick-failure-links/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/aho-corasick-failure-links) |
+| **Suffix Array + LCP** | [py](string/suffix-array-lcp/solution.py) | [cpp](string/suffix-array-lcp/solution.cpp) | [java](string/suffix-array-lcp/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/suffix-array-lcp) |
+| **Booth's Algorithm** | [py](string/booth-minimal-rotation/solution.py) | [cpp](string/booth-minimal-rotation/solution.cpp) | [java](string/booth-minimal-rotation/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/booth-minimal-rotation) |
+| **Palindromic Tree Applications** | [py](string/palindromic-tree-apps/solution.py) | [cpp](string/palindromic-tree-apps/solution.cpp) | [java](string/palindromic-tree-apps/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/palindromic-tree-apps) |
+| **Rolling Hash Collision Demo** | [py](string/rolling-hash-collision/solution.py) | [cpp](string/rolling-hash-collision/solution.cpp) | [java](string/rolling-hash-collision/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rolling-hash-collision) |
+| **Suffix Automaton Applications** | [py](string/suffix-automaton-apps/solution.py) | [cpp](string/suffix-automaton-apps/solution.cpp) | [java](string/suffix-automaton-apps/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/suffix-automaton-apps) |
 
 ## Linked List
 
@@ -357,10 +376,10 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Find Median from Data Stream** | [py](leetcode-patterns/find-median-data-stream/solution.py) | [cpp](leetcode-patterns/find-median-data-stream/solution.cpp) | [java](leetcode-patterns/find-median-data-stream/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/find-median-data-stream) |
 | **Kth Largest Element** | [py](leetcode-patterns/kth-largest-element/solution.py) | [cpp](leetcode-patterns/kth-largest-element/solution.cpp) | [java](leetcode-patterns/kth-largest-element/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/kth-largest-element) |
 | **Subsets (Power Set)** | [py](leetcode-patterns/subsets/solution.py) | [cpp](leetcode-patterns/subsets/solution.cpp) | [java](leetcode-patterns/subsets/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/subsets) |
-| **Jump Game** | [py](leetcode-patterns/search-rotated-sorted-array/solution.py) | [cpp](leetcode-patterns/search-rotated-sorted-array/solution.cpp) | [java](leetcode-patterns/search-rotated-sorted-array/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/search-rotated-sorted-array) |
+| **Search in Rotated Sorted Array** | [py](leetcode-patterns/search-rotated-sorted-array/solution.py) | [cpp](leetcode-patterns/search-rotated-sorted-array/solution.cpp) | [java](leetcode-patterns/search-rotated-sorted-array/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/search-rotated-sorted-array) |
 | **Number of Islands** | [py](leetcode-patterns/number-of-islands/solution.py) | [cpp](leetcode-patterns/number-of-islands/solution.cpp) | [java](leetcode-patterns/number-of-islands/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/number-of-islands) |
 | **Course Schedule** | [py](leetcode-patterns/course-schedule/solution.py) | [cpp](leetcode-patterns/course-schedule/solution.cpp) | [java](leetcode-patterns/course-schedule/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/course-schedule) |
-| **Single Number (XOR)** | [py](leetcode-patterns/implement-trie/solution.py) | [cpp](leetcode-patterns/implement-trie/solution.cpp) | [java](leetcode-patterns/implement-trie/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/implement-trie) |
+| **Implement Trie (Prefix Tree)** | [py](leetcode-patterns/implement-trie/solution.py) | [cpp](leetcode-patterns/implement-trie/solution.cpp) | [java](leetcode-patterns/implement-trie/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/implement-trie) |
 | **Daily Temperatures** | [py](leetcode-patterns/daily-temperatures/solution.py) | [cpp](leetcode-patterns/daily-temperatures/solution.cpp) | [java](leetcode-patterns/daily-temperatures/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/daily-temperatures) |
 | **Spiral Matrix** | [py](leetcode-patterns/spiral-matrix/solution.py) | [cpp](leetcode-patterns/spiral-matrix/solution.cpp) | [java](leetcode-patterns/spiral-matrix/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/spiral-matrix) |
 | **Merge K Sorted Lists** | [py](leetcode-patterns/merge-k-sorted-lists/solution.py) | [cpp](leetcode-patterns/merge-k-sorted-lists/solution.cpp) | [java](leetcode-patterns/merge-k-sorted-lists/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/merge-k-sorted-lists) |
@@ -375,4 +394,4 @@ python3 sorting/bubble-sort/solution.py
 
 ## License
 
-Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The sortsort platform itself remains © 2026 Prakash Raj.
+Code in this repository is released under the [MIT License](LICENSE) — provided for learning purposes. The Stepsort platform itself remains © 2026 Prakash Raj.

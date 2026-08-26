@@ -1,4 +1,4 @@
-# sortsort · Jump Game
+# sortsort · Search in Rotated Sorted Array
 # Category: LeetCode Patterns
 # Animated walkthrough: https://stepsort.prakashraj.me/algorithm/search-rotated-sorted-array
 

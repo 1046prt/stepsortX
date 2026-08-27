@@ -4,7 +4,7 @@ Companion repository to [**Stepsort**](https://stepsort.prakashraj.me) — inter
 
 Every solution here has a **step-by-step animated walkthrough** on the website. Click the 🎬 links below to watch one execute before reading the code.
 
-**288 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
+**300 algorithms · Python · C++ · Java** — all compile-checked weekly by CI.
 
 ## Sorting
 
@@ -31,6 +31,8 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Bogo Sort** | [py](sorting/bogo-sort/solution.py) | [cpp](sorting/bogo-sort/solution.cpp) | [java](sorting/bogo-sort/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bogo-sort) |
 | **Bitonic Sort** | [py](sorting/bitonic-sort/solution.py) | [cpp](sorting/bitonic-sort/solution.cpp) | [java](sorting/bitonic-sort/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bitonic-sort) |
 | **Tree Sort** | [py](sorting/tree-sort/solution.py) | [cpp](sorting/tree-sort/solution.cpp) | [java](sorting/tree-sort/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/tree-sort) |
+| **IntroSort** | [py](sorting/intro-sort/solution.py) | [cpp](sorting/intro-sort/solution.cpp) | [java](sorting/intro-sort/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/intro-sort) |
+| **Dutch National Flag** | [py](sorting/dutch-national-flag/solution.py) | [cpp](sorting/dutch-national-flag/solution.cpp) | [java](sorting/dutch-national-flag/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/dutch-national-flag) |
 
 ## Searching
 
@@ -89,6 +91,10 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Minimum Vertex Cut** | [py](graph/min-vertex-cut/solution.py) | [cpp](graph/min-vertex-cut/solution.cpp) | [java](graph/min-vertex-cut/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/min-vertex-cut) |
 | **Bipartite Independent Set** | [py](graph/bipartite-independent-set/solution.py) | [cpp](graph/bipartite-independent-set/solution.cpp) | [java](graph/bipartite-independent-set/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/bipartite-independent-set) |
 | **Transitive Closure** | [py](graph/transitive-closure/solution.py) | [cpp](graph/transitive-closure/solution.cpp) | [java](graph/transitive-closure/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/transitive-closure) |
+| **Multi-Source BFS** | [py](graph/multi-source-bfs/solution.py) | [cpp](graph/multi-source-bfs/solution.cpp) | [java](graph/multi-source-bfs/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/multi-source-bfs) |
+| **Weighted Union-Find** | [py](graph/union-find-weighted/solution.py) | [cpp](graph/union-find-weighted/solution.cpp) | [java](graph/union-find-weighted/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/union-find-weighted) |
+| **Flood Fill** | [py](graph/flood-fill/solution.py) | [cpp](graph/flood-fill/solution.cpp) | [java](graph/flood-fill/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/flood-fill) |
+| **SPFA (Shortest Path Faster)** | [py](graph/spfa/solution.py) | [cpp](graph/spfa/solution.cpp) | [java](graph/spfa/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/spfa) |
 
 ## Tree
 
@@ -175,6 +181,7 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Gas Station** | [py](greedy/gas-station/solution.py) | [cpp](greedy/gas-station/solution.cpp) | [java](greedy/gas-station/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/gas-station) |
 | **Jump Game** | [py](greedy/jump-game/solution.py) | [cpp](greedy/jump-game/solution.cpp) | [java](greedy/jump-game/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/jump-game) |
 | **Task Scheduler** | [py](greedy/task-scheduler/solution.py) | [cpp](greedy/task-scheduler/solution.cpp) | [java](greedy/task-scheduler/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/task-scheduler) |
+| **Best Time to Buy/Sell Stock** | [py](greedy/best-time-to-buy-sell-stock/solution.py) | [cpp](greedy/best-time-to-buy-sell-stock/solution.cpp) | [java](greedy/best-time-to-buy-sell-stock/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/best-time-to-buy-sell-stock) |
 
 ## Backtracking
 
@@ -303,6 +310,7 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Group Anagrams** | [py](hashing/group-anagrams/solution.py) | [cpp](hashing/group-anagrams/solution.cpp) | [java](hashing/group-anagrams/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/group-anagrams) |
 | **LRU Cache** | [py](hashing/lru-cache/solution.py) | [cpp](hashing/lru-cache/solution.cpp) | [java](hashing/lru-cache/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/lru-cache) |
 | **Consistent Hashing** | [py](hashing/consistent-hashing/solution.py) | [cpp](hashing/consistent-hashing/solution.cpp) | [java](hashing/consistent-hashing/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/consistent-hashing) |
+| **Count-Min Sketch** | [py](hashing/count-min-sketch/solution.py) | [cpp](hashing/count-min-sketch/solution.cpp) | [java](hashing/count-min-sketch/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/count-min-sketch) |
 
 ## Computational Geometry
 
@@ -383,6 +391,10 @@ Every solution here has a **step-by-step animated walkthrough** on the website. 
 | **Daily Temperatures** | [py](leetcode-patterns/daily-temperatures/solution.py) | [cpp](leetcode-patterns/daily-temperatures/solution.cpp) | [java](leetcode-patterns/daily-temperatures/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/daily-temperatures) |
 | **Spiral Matrix** | [py](leetcode-patterns/spiral-matrix/solution.py) | [cpp](leetcode-patterns/spiral-matrix/solution.cpp) | [java](leetcode-patterns/spiral-matrix/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/spiral-matrix) |
 | **Merge K Sorted Lists** | [py](leetcode-patterns/merge-k-sorted-lists/solution.py) | [cpp](leetcode-patterns/merge-k-sorted-lists/solution.cpp) | [java](leetcode-patterns/merge-k-sorted-lists/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/merge-k-sorted-lists) |
+| **Boyer-Moore Majority Vote** | [py](leetcode-patterns/boyer-moore-majority-vote/solution.py) | [cpp](leetcode-patterns/boyer-moore-majority-vote/solution.cpp) | [java](leetcode-patterns/boyer-moore-majority-vote/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/boyer-moore-majority-vote) |
+| **Sliding Window Minimum** | [py](leetcode-patterns/sliding-window-minimum/solution.py) | [cpp](leetcode-patterns/sliding-window-minimum/solution.cpp) | [java](leetcode-patterns/sliding-window-minimum/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/sliding-window-minimum) |
+| **Next Greater Element** | [py](leetcode-patterns/next-greater-element/solution.py) | [cpp](leetcode-patterns/next-greater-element/solution.cpp) | [java](leetcode-patterns/next-greater-element/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/next-greater-element) |
+| **Rotate Image** | [py](leetcode-patterns/rotate-image/solution.py) | [cpp](leetcode-patterns/rotate-image/solution.cpp) | [java](leetcode-patterns/rotate-image/Solution.java) | [🎬 Watch](https://stepsort.prakashraj.me/algorithm/rotate-image) |
 
 ## Compiling locally
 
